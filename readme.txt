@@ -6,6 +6,3 @@ Creating a new branch is quick and simple.
 Chinese
 
 I'm master
-
-
-this is bug fixed in master branch.....
